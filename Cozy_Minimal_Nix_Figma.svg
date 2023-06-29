@@ -1,3 +1,16 @@
+<!--
+    Nix Cozy Minimal © 2023 by Sake is licensed under (CC BY-SA 4.0)
+    To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+
+    It uses the following works, modified:
+    Devin's Badges Figma Template
+    https://github.com/intergrav/devins-badges
+    Licensed under MIT by devin (I appreciate the license choice)
+
+    It uses the following works, unmodified:
+    NixOS Logo by Tim Cuthbertson(@timbertson) is licensed under (CC BY 4.0)
+    To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+-->
 <svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect x="1.05" y="1.05" width="53.9" height="53.9" rx="7.35" fill="black"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M20.2036 28.7745L29.9462 45.651L25.4689 45.693L22.8678 41.1589L20.2482 45.6688L18.0236 45.6679L16.8842 43.6994L20.6164 37.2821L17.967 32.6718L20.2036 28.7745Z" fill="#5277C3"/>
