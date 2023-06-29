@@ -1,0 +1,17 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1.05" y="1.05" width="53.9" height="53.9" rx="7.35" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20.2036 28.7745L29.9462 45.651L25.4689 45.693L22.8678 41.1589L20.2482 45.6688L18.0236 45.6679L16.8842 43.6994L20.6164 37.2821L17.967 32.6718L20.2036 28.7745Z" fill="#5277C3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M23.7201 21.8229L13.9759 38.6984L11.7008 34.842L14.327 30.3224L9.11152 30.3087L8 28.3817L9.13504 26.4107L16.5587 26.4341L19.2267 21.8346L23.7201 21.8229Z" fill="#7EBAE4"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24.4676 35.313L43.9544 35.3139L41.7521 39.2124L36.5249 39.1979L39.1208 43.7214L38.0077 45.6476L35.7333 45.6501L32.0418 39.2093L26.7244 39.1985L24.4676 35.313Z" fill="#7EBAE4"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35.8096 27.9185L26.0671 11.042L30.5444 11L33.1454 15.5341L35.765 11.0242L37.9896 11.0251L39.129 12.9936L35.3969 19.4109L38.0462 24.0213L35.8096 27.9185Z" fill="#7EBAE4"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20.2036 28.7745L29.9462 45.651L25.4689 45.693L22.8678 41.1589L20.2482 45.6688L18.0236 45.6679L16.8842 43.6994L20.6164 37.2821L17.967 32.6718L20.2036 28.7745Z" fill="#5277C3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.5197 21.3374L12.0329 21.3364L14.2352 17.438L19.4624 17.4525L16.8665 12.9289L17.9796 11.0028L20.254 11.0003L23.9455 17.4411L29.2629 17.4519L31.5197 21.3374Z" fill="#5277C3"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32.2799 34.8665L42.0241 17.991L44.2992 21.8474L41.673 26.367L46.8885 26.3807L48 28.3078L46.865 30.2787L39.4413 30.2553L36.7733 34.8549L32.2799 34.8665Z" fill="#5277C3"/>
+<rect x="1.05" y="1.05" width="53.9" height="53.9" rx="7.35" stroke="url(#paint0_linear_1_252)" stroke-width="2.1"/>
+<defs>
+<linearGradient id="paint0_linear_1_252" x1="28" y1="0" x2="28" y2="56" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7EBAE4"/>
+<stop offset="1" stop-color="#5277C3"/>
+</linearGradient>
+</defs>
+</svg>
